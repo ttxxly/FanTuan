@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FanTuan.iml" filepath="$PROJECT_DIR$/FanTuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SweetDialog/SweetDialog.iml" filepath="$PROJECT_DIR$/SweetDialog/SweetDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
